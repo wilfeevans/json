@@ -1,0 +1,19 @@
+
+"Locator":
+{
+    "HomePage":
+    {
+        "UserName":
+        {
+        
+            "CSS": "input#identifierId",
+            "XPath": "//input[@id= 'identifierId']"
+        
+        
+        }
+    
+    }
+
+
+
+}
